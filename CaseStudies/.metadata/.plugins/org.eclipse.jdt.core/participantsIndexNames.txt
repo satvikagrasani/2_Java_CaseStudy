@@ -1,0 +1,5 @@
+INDEX VERSION 1.134
+C:\Users\user\Desktop\CaseStudies\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3208292175.index
+\OnlineShoppingSystem-CaseStudy\src\main\java
+C:\Users\user\Desktop\CaseStudies\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3773696682.index
+\OnlineShoppingSystem\src\main\java
